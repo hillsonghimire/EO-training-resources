@@ -1,0 +1,1 @@
+This repository contains shared code of the trainings I have conducted to different clients. These are the part of institutional capacity building requirements of the projects.
